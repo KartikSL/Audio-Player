@@ -1,4 +1,4 @@
-  abstract class Button
+abstract class Button
 {
   int x, y, hw, hh;
   
