@@ -1,3 +1,12 @@
+/*
+Processing sketch for a simple music player.
+The player loads songs a pre-specified directory.
+Controls - 'p' to pause/play, 'n' for the next track, 'b' for the previous track
+
+Authors: Kartik Lovekar (kslovekar@gmail.com)
+         Prithvijit Chakrabarty (prithvichakra@gmail.com)
+*/
+
 import ddf.minim.*;
 import java.io.*;
 import java.util.*;
